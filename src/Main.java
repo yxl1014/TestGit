@@ -8,5 +8,6 @@ public class Main {
         System.out.println("xxxx");
         System.out.println("ljy傻逼");
         System.out.println("yyyy");
+        System.out.println("zzzz");
     }
 }
